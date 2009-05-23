@@ -1,8 +1,7 @@
 package = "wsapi_more"
 version = "1.0-1"
 source = {
-	url = ".",
-	-- md5 = "49a6a3b7912a053a2b7ad6bbcf4d3564"
+	url = "http://download.github.com/raycmorgan-wsapi-more-893381b6e15cdbe1c929c2ccd7c372ad0f8fe2e4.tar.gz"
 }
 description = {
 	summary = "addons for the wsapi library",
@@ -12,7 +11,7 @@ description = {
 		Applications (endpoints) as well as linking them up to run
 		via any wsapi based server.
 	]],
-	homepage = "the git wiki url?",
+	homepage = "http://wiki.github.com/raycmorgan/wsapi-more",
 	maintainer = "Ray Morgan <raycmorgan@gmail.com>",
 	license = "MIT/X11"
 }
