@@ -22,7 +22,6 @@ class("Builder", _M) do
   end
   
   function Builder:map(path, callback)
-    self.stack
   end
   
   function Builder:to_app()
