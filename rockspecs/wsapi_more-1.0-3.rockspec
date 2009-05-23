@@ -1,7 +1,7 @@
 package = "wsapi_more"
-version = "1.0-1"
+version = "1.0-3"
 source = {
-	url = "http://cloud.github.com/downloads/raycmorgan/wsapi-more/wsapi-more-1.0-1.tar.gz"
+  url = "http://cloud.github.com/downloads/raycmorgan/wsapi-more/wsapi-more-1.0-3.tar.gz"
 }
 description = {
 	summary = "addons for the wsapi library",
