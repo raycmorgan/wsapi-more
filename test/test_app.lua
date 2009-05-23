@@ -34,10 +34,3 @@ xavante.HTTP {
   }
 }
 xavante.start()
-
-
--- apollo("TestApp")
--- 
--- TestApp:get("/", function()
---   "Hello World"
--- end)
